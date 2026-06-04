@@ -1,0 +1,2 @@
+PSD is calculated using preprocessed and band-separated data
+Connectivity / Coupling is calculated using preprocessed data
